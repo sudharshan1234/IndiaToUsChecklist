@@ -8,10 +8,10 @@ const PercentagePacked: FC<Props> = ({ essentials }) => {
 
   const percentage = ((packedEssential * 100) / totalLen).toFixed(2);
   let color = "bg-red-500";
-  if (percentage > "33" && percentage < "66") {
+  if (Number(percentage) > 33 && Number(percentage) < 66) {
     color = "bg-yellow-500";
   }
-  if (percentage > "66") {
+  if (Number(percentage) > 66) {
     color = "bg-green-500";
   }
   return (

@@ -5,16 +5,16 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_formal_clothing",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=5c9f7e02ed7634b76ac80dfffc077a40&camp=3638&creative=24630&index=apparel&keywords=Formal Clothing",
     id: "qWIxDKtitU",
   },
   {
     category: "Clothing",
-    name: "Ties (for Boys)",
+    name: "Ties (for Men)",
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_ties",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=eab8d5b8a773b83513d9c3a79238544f&camp=3638&creative=24630&index=apparel&keywords=Ties (for Men)",
     id: "jq7db0L7oK",
   },
   {
@@ -23,7 +23,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_undergarments",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=e9e696fc807bff4014b90d078c603a0a&camp=3638&creative=24630&index=apparel&keywords=Undergarment",
     id: "i6N2Of0qcD",
   },
   {
@@ -32,7 +32,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_winter_jacket",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=b1cb1f7d16bd95b0080d359b27577738&camp=3638&creative=24630&index=apparel&keywords=Winter Jacket",
     id: "KVPWE6vf78",
   },
   {
@@ -41,7 +41,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_rain_coat",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=969c893c9412556b05d45ffc9ad34249&camp=3638&creative=24630&index=apparel&keywords=Rain Coat",
     id: "UmLIHrDt6d",
   },
   {
@@ -50,7 +50,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_sweaters",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=878c24c061fd6a8ed1d7b40c2018300e&camp=3638&creative=24630&index=apparel&keywords=Sweaters",
     id: "Sa3k5VeHPC",
   },
   {
@@ -59,7 +59,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_nightwear",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=80c6bebaf19f764d46a033f46798c951&camp=3638&creative=24630&index=apparel&keywords=Nightwear",
     id: "nVilUzVIsK",
   },
   {
@@ -68,7 +68,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_jeans",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6ec2f5dc74d9961bab0d5c47261e81b8&camp=3638&creative=24630&index=apparel&keywords=Jeans",
     id: "qHthZW4TMq",
   },
   {
@@ -77,7 +77,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_tshirts",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=2ebf1d17c7243aa4efcdb31ef73f2fd7&camp=3638&creative=24630&index=apparel&keywords=tshirts",
     id: "1xJUe1W2Xq",
   },
   {
@@ -86,7 +86,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_gloves",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0987a6d92edbd8b3fe05d5db0a281def&camp=3638&creative=24630&index=apparel&keywords=Gloves",
     id: "wSy8JfEWCR",
   },
   {
@@ -95,7 +95,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_bath_towels",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=31ade5d17a64665ba0c8cf706b0a86aa&camp=3638&creative=24630&index=apparel&keywords=Bath Towels",
     id: "1TvGJwizKQ",
   },
   {
@@ -104,7 +104,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_thermal_wear",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=f228ec8cdc339b6e233b4d39cc4c99f4&camp=3638&creative=24630&index=apparel&keywords=Thermal Wear",
     id: "t9fH4UtLOd",
   },
   {
@@ -113,7 +113,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_scarf_muffler",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6027bb9daa6ac7825a9f90de0379257c&camp=3638&creative=24630&index=apparel&keywords=Muffler",
     id: "1zVJtnOwvG",
   },
   {
@@ -122,7 +122,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_shorts",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=04831f9396d65d53aacbd7e6c78488f3&camp=3638&creative=24630&index=apparel&keywords=Shorts",
     id: "1RxSvcd5NX",
   },
   {
@@ -131,7 +131,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_swimming_trunks",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=80336cc7b6bcacc196f8fb42dc203aa5&camp=3638&creative=24630&index=apparel&keywords=Swimming Trunks",
     id: "uJUWBW6SLy",
   },
   {
@@ -140,16 +140,16 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_sports_wear",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0526901dfa14b38fe5f09fbf138e267a&camp=3638&creative=24630&index=apparel&keywords=Sports Wear",
     id: "d6f8a1lZ5q",
   },
   {
     category: "Clothing",
-    name: "Belts for Jeans",
+    name: "Belts for Pants",
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_belts_for_jeans",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=553fd17554e0269b1496ae31bd93d9a7&camp=3638&creative=24630&index=apparel&keywords=Belts for Pants",
     id: "DLz2eUZtVX",
   },
   {
@@ -158,7 +158,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_cello_tape",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=15691562242a37fe79a2e1481dcb6526&camp=3638&creative=24630&index=aps&keywords=Cello Tape",
     id: "3ifW6vOZDE",
   },
   {
@@ -167,7 +167,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_pens_and_pencils",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=b6a14080d1a5417e99dbda2684189647&camp=3638&creative=24630&index=aps&keywords=Pens and Pencils",
     id: "B9vIJaaHE1",
   },
   {
@@ -176,7 +176,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_eraser",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6d3d6109e218e00f16ed411c0a9ca34b&camp=3638&creative=24630&index=aps&keywords=Eraser",
     id: "Vv8af1mRam",
   },
   {
@@ -185,7 +185,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_file_folder",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=7d25bf73a80154433a694389040b5746&camp=3638&creative=24630&index=aps&keywords=File Folder",
     id: "LnAazxm3gx",
   },
   {
@@ -194,7 +194,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_marker",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0dbe2bc9a494fcd936568999e45f8497&camp=3638&creative=24630&index=aps&keywords=Marker",
     id: "xZ9yRpr6qM",
   },
   {
@@ -203,7 +203,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_notebooks_and_pads",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=770ccce626991502d9db32791eb6ab93&camp=3638&creative=24630&index=aps&keywords=Notebooks",
     id: "UI06r0B7IG",
   },
   {
@@ -212,7 +212,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_rubber_bands",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=efc10d2bcbbc9adba7c4359089ab4120&camp=3638&creative=24630&index=aps&keywords=Rubber Bands",
     id: "Qj8IIpYLyW",
   },
   {
@@ -221,7 +221,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_stapler_and_pin",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=53598c3243327edaabea9a565ddf0401&camp=3638&creative=24630&index=aps&keywords=Stapler and Pin",
     id: "Hxp3ymuUHk",
   },
   {
@@ -230,7 +230,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_sticky_notes",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=79243ada559ca623fb2ab563b8f8a495&camp=3638&creative=24630&index=aps&keywords=Sticky Notes",
     id: "itRnMj6hFa",
   },
   {
@@ -239,7 +239,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_scissors",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8c569e469570690fd6625d7523b26404&camp=3638&creative=24630&index=aps&keywords=Scissors",
     id: "vx9JX5IISt",
   },
   {
@@ -248,7 +248,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_paper_clips",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0acf1838060f12c38b47e72fb98bb97c&camp=3638&creative=24630&index=aps&keywords=Paper Clips",
     id: "4b0aYqgDGh",
   },
   {
@@ -257,7 +257,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_a4_sheets",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=f01fccc6034f6c20be6b9849bd10a2d8&camp=3638&creative=24630&index=aps&keywords=A4 Sheets",
     id: "r91XUjyczX",
   },
   {
@@ -266,7 +266,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_highlighter",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d30d3ab932ec694920d92c42f75fcdda&camp=3638&creative=24630&index=aps&keywords=Highlighter",
     id: "6iD8ZmEYAT",
   },
   {
@@ -275,7 +275,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_glue",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6460cd1fce0e77e02cbc54ba49aaa514&camp=3638&creative=24630&index=aps&keywords=Glue",
     id: "faydtE5pXP",
   },
   {
@@ -284,7 +284,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_pen_holder",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=12b47a0e76b924c640a6b7a40cf17566&camp=3638&creative=24630&index=aps&keywords=Pen Holder",
     id: "sB6zbCbjyC",
   },
   {
@@ -293,7 +293,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_punching_machine",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=f7d56cc083061b0703a56eb3e440f9f6&camp=3638&creative=24630&index=aps&keywords=Punching Machine",
     id: "VHmtW0VHVl",
   },
   {
@@ -302,7 +302,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_paper_cutter",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=b77c37e698034f0cba76a9cab49bbac5&camp=3638&creative=24630&index=aps&keywords=Paper Cutter",
     id: "nYVS8qCWAK",
   },
   {
@@ -311,7 +311,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_labels",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=ea0b3de84ea739ea454b5341808362b7&camp=3638&creative=24630&index=aps&keywords=Labels",
     id: "EFEwZT1N3N",
   },
   {
@@ -320,7 +320,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_scientific_calculator",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=959db2b9c99c7fed70c5c626fc57a316&camp=3638&creative=24630&index=aps&keywords=Scientific Calculator",
     id: "yAQ0CKBIbi",
   },
   {
@@ -329,7 +329,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_small_ruler",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=c89be4213ff349f2a2cbd3ae72f1851f&camp=3638&creative=24630&index=aps&keywords=Small Ruler",
     id: "5svRNf1SDM",
   },
   {
@@ -338,7 +338,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_compass_box_pouch",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=083b27af0df36b7592b8424f6ed1df47&camp=3638&creative=24630&index=aps&keywords=Compass Box Pouch",
     id: "fJ6B7gX4E9",
   },
   {
@@ -347,7 +347,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_formal_shoes",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=090f4fc70ad5bfe92c757cd330f8fbbc&camp=3638&creative=24630&index=apparel&keywords=Formal Shoes",
     id: "2wj1yucB4M",
   },
   {
@@ -356,7 +356,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_sports_shoes",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=35a51243e8f181264a6e5d5e751fe9a3&camp=3638&creative=24630&index=apparel&keywords=Sports Shoes",
     id: "MgRT0pKrGL",
   },
   {
@@ -365,7 +365,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_casual_shoes",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=bd44553ee279bf61002d557a22814344&camp=3638&creative=24630&index=apparel&keywords=Casual Shoes",
     id: "OkZBRiOHO4",
   },
   {
@@ -374,7 +374,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_indoor_slippers",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=b080c3b8e6eb0ab3720d8dda573c13bc&camp=3638&creative=24630&index=apparel&keywords=Indoor Slippers",
     id: "gXzl54dipM",
   },
   {
@@ -383,7 +383,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_socks",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=2e003fa635a0e0045e140ac2732fb796&camp=3638&creative=24630&index=apparel&keywords=Socks",
     id: "9fP74kqNAD",
   },
   {
@@ -392,7 +392,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_woollen_socks",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=12921efe5e3bd8a597a791737adca382&camp=3638&creative=24630&index=apparel&keywords=Woollen socks",
     id: "sXDhqPmNcm",
   },
   {
@@ -401,7 +401,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_laptop_and_charger",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8b6851742aa7b9c215f5f86a95573fb8&camp=3638&creative=24630&index=eu-ce-in&keywords=Personal Laptop",
     id: "9IHJndSxlY",
   },
   {
@@ -410,7 +410,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_mobile_phone_and_charger",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=36aa711ce7e879684678bdddda18f8bc&camp=3638&creative=24630&index=eu-ce-in&keywords=Mobile Phone",
     id: "NRLYJnPr9V",
   },
   {
@@ -419,16 +419,16 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_table_clock",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=9e2601ccf2757fa44d0efcf85e00e211&camp=3638&creative=24630&index=eu-ce-in&keywords=Table Clock with Alarm",
     id: "93YZxWNuhQ",
   },
   {
     category: "Electronics",
-    name: "Indian Pin to US Pin Converter",
+    name: "Travel Adaptor",
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_pin_converter",
+    link: "https://www.amazon.in/rts-Universal-Adapter-International-Worldwide/dp/B082WYMTWF/ref=sr_1_3?crid=2Y92QCBP9HIMM&amp;keywords=Travel+Adaptor&amp;qid=1690392912&amp;sprefix=travel+adaptor%252Caps%252C232&amp;sr=8-3&_encoding=UTF8&tag=1122088-21&linkCode=ur2&linkId=fa405367ac5ef611128c537bb50b7905&camp=3638&creative=24630",
     id: "gcv6z3Vthn",
   },
   {
@@ -437,17 +437,8 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_spike_buster",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=413181591cecc8bc3b89402dca8700c5&camp=3638&creative=24630&index=eu-ce-in&keywords=Spike Buster",
     id: "cHKmx8wVkT",
-  },
-  {
-    category: "Electronics",
-    name: "Extension cord",
-    packed: false,
-    essential: true,
-    not_needed: false,
-    link: "link_to_buy_extension_cord",
-    id: "WUYdC6PBNQ",
   },
   {
     category: "Electronics",
@@ -455,7 +446,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_extra_batteries",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=07e8e8408fb2bb1d7a92a610d6611572&camp=3638&creative=24630&index=eu-ce-in&keywords=Extra Batteries",
     id: "ubJ8RVShGJ",
   },
   {
@@ -464,7 +455,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_external_harddisk",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=7b85fd1b5040661ddb169d77437890dd&camp=3638&creative=24630&index=eu-ce-in&keywords=External Harddisk",
     id: "ndFXdeilkt",
   },
   {
@@ -473,7 +464,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_keyboard_and_mouse",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=f085085d5f7c88543169d8710bf4d175&camp=3638&creative=24630&index=eu-ce-in&keywords=USB Keyboard and Mouse",
     id: "vm8EkeF6Vb",
   },
   {
@@ -482,7 +473,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_bluetooth_speakers",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=39c7af634b794f0c035f7c57dc8f621d&camp=3638&creative=24630&index=eu-ce-in&keywords=Bluetooth Speakers",
     id: "yaCVFssjf5",
   },
   {
@@ -491,7 +482,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_digital_camera",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8252ddbd23b8254c0ecacc81397a0219&camp=3638&creative=24630&index=eu-ce-in&keywords=Digital Camera",
     id: "LerbCuNDDP",
   },
   {
@@ -500,7 +491,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_headphones",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a81db4eafe92e0a410cca89caf28ec2c&camp=3638&creative=24630&index=eu-ce-in&keywords=Headphones with Mic",
     id: "Ow8oWMUWgF",
   },
   {
@@ -509,7 +500,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_powerbank",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=65c3f74b209ddf9d9e7c0018088f3a70&camp=3638&creative=24630&index=eu-ce-in&keywords=Powerbank",
     id: "pKLH31SfPs",
   },
   {
@@ -518,7 +509,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_lan_cable",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0a1f4d27556b8572756b0a115d17e41a&camp=3638&creative=24630&index=eu-ce-in&keywords=LAN Cable",
     id: "kBggKlPaqf",
   },
   {
@@ -527,7 +518,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_tripod",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8741548a90105c22102676b6b6ca9691&camp=3638&creative=24630&index=eu-ce-in&keywords=Tripod",
     id: "o4ThNHMACw",
   },
   {
@@ -536,7 +527,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_steam_iron",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=cc5d50527a2b7727bbd63ebdc8da63af&camp=3638&creative=24630&index=eu-ce-in&keywords=Steam Iron",
     id: "x9UA69RcLq",
   },
   {
@@ -545,7 +536,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_crocin",
+    link: "",
     id: "FEI0f63JEL",
   },
   {
@@ -554,7 +545,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_combiflam",
+    link: "",
     id: "9y0sWXfSj3",
   },
   {
@@ -563,7 +554,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_cyclopam",
+    link: "",
     id: "pIPsSJR9xM",
   },
   {
@@ -572,7 +563,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_vicks_vaporub",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6beea647133fd9fa91edef4b4bb02329&camp=3638&creative=24630&index=aps&keywords=Vicks Vaporub",
     id: "KdUCmasIat",
   },
   {
@@ -581,7 +572,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_thermometer",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=1b6ef0e040f64dff8d632d9b95e3a582&camp=3638&creative=24630&index=aps&keywords=Thermometer",
     id: "ux65DkxeW8",
   },
   {
@@ -590,7 +581,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_volini_spray",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=82665613a5d6f3a727806239cefbe407&camp=3638&creative=24630&index=aps&keywords=Volini Spray",
     id: "NTQNvKlPVd",
   },
   {
@@ -599,7 +590,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_band_aids",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=704b3dd9d8791fe7880325d333da9bda&camp=3638&creative=24630&index=aps&keywords=Band Aids",
     id: "kqNfFE0880",
   },
   {
@@ -608,7 +599,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_cotton",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=ed96611b3322b3505a8295259fce3849&camp=3638&creative=24630&index=aps&keywords=Cotton",
     id: "uYwxKEkn3W",
   },
   {
@@ -617,7 +608,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_salvol_dentol",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=25cdfe94d96d5e6db1347410b4bfd340&camp=3638&creative=24630&index=aps&keywords=Salvol or Dentol",
     id: "1ajqwFkdye",
   },
   {
@@ -626,7 +617,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_prescription_medicines",
+    link: "",
     id: "qWE7Yhh7xu",
   },
   {
@@ -635,7 +626,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_avomine",
+    link: "",
     id: "Icry6YKYxo",
   },
   {
@@ -644,7 +635,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_gelucil_zantac",
+    link: "",
     id: "hxkk1IiY8H",
   },
   {
@@ -653,7 +644,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_lopomide",
+    link: "",
     id: "Jmcuv5gY0r",
   },
   {
@@ -662,7 +653,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_itch_guard",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d9fe561197dc38fd68c3449140389f6d&camp=3638&creative=24630&index=aps&keywords=Itch Guard",
     id: "rRAxpvfXMS",
   },
   {
@@ -671,7 +662,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_strepsils",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=048a717b260fd1f6ccb688688504dec1&camp=3638&creative=24630&index=aps&keywords=Strepsils",
     id: "ZGbvTgM8X1",
   },
   {
@@ -680,7 +671,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_burnol",
+    link: "https://www.amazon.in/Burnol-reqd-MFR-Dr-Morepen/dp/B0777M4HZM?crid=1QDKN9KYFTQDO&keywords=Burnol&qid=1690393536&sprefix=burnol%2Caps%2C233&sr=8-1&linkCode=ll1&tag=1122088-21&linkId=b0548d151963e59b896f2f52a8db81d4&language=en_IN&ref_=as_li_ss_tl",
     id: "soZZ0p0fPR",
   },
   {
@@ -689,7 +680,7 @@ export const essentials = [
     packed: false,
     essential: false,
     not_needed: false,
-    link: "link_to_buy_inhaler",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=1975285184539816d1bcb7509ea74f80&camp=3638&creative=24630&index=aps&keywords=Inhaler",
     id: "aoMybcpdv6",
   },
   {
@@ -707,7 +698,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_pressure_cooker",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=56d3e4714a2a03a58710c98fef9443cb&camp=3638&creative=24630&index=kitchen&keywords=Pressure Cooker",
     id: "9sQaxm9egy",
   },
   {
@@ -716,7 +707,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_cooking_pan",
+    link: "https://amzn.to/3rNCgpy",
     id: "6DmmQY2fsd",
   },
   {
@@ -725,7 +716,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_serving_spoons",
+    link: "https://amzn.to/3DAFJdq",
     id: "6QzDIRV4qm",
   },
   {
@@ -734,7 +725,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_plates",
+    link: "https://amzn.to/45116Ar",
     id: "JCW0Jb9yr8",
   },
   {
@@ -743,7 +734,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_kadhai",
+    link: "https://amzn.to/3KckQco",
     id: "FcNvRLcFl3",
   },
   {
@@ -752,7 +743,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_knives",
+    link: "https://amzn.to/473gkqz",
     id: "IHfG0VGJvt",
   },
   {
@@ -761,7 +752,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_glasses_tumblers",
+    link: "https://amzn.to/3Y7Pp8K",
     id: "5Tpfapp0Mr",
   },
   {
@@ -770,7 +761,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_spoons_forks",
+    link: "https://amzn.to/3rIDN06",
     id: "K6Z25C4ouR",
   },
   {
@@ -779,7 +770,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_water_bottles",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=3b9d4d0c80ec901c178244e7c3ac0ff9&camp=3638&creative=24630&index=kitchen&keywords=Water Bottles",
     id: "YJUHtveT6W",
   },
   {
@@ -788,7 +779,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_lunchbox",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=ff29cf1ae62169db45f72dfdc0806042&camp=3638&creative=24630&index=kitchen&keywords=Lunchbox",
     id: "C8ituO1cGi",
   },
   {
@@ -797,7 +788,7 @@ export const essentials = [
     packed: false,
     essential: true,
     not_needed: false,
-    link: "link_to_buy_can_opener",
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=ba7d3bbc5b91e22ef26aa78fe84a8ebe&camp=3638&creative=24630&index=kitchen&keywords=Can Opener",
     id: "5viqJFCeGg",
   },
   {
