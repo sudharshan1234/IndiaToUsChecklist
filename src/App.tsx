@@ -92,7 +92,32 @@ export default function App() {
           don't have to worry. Feel free to share it with your friends!
         </span>
       </p>
+      <div className='flex gap-1 justify-center flex-wrap items-center'>
+        <h3 className='text-3xl'>Get your luggages first! </h3>
+        <a
+          className='bg-yellow-300 text-xs p-1 w-16 cursor-pointer font-semibold shadow-lg rounded transition-all hover:bg-black hover:text-yellow-300'
+          target='_blank'
+          href='https://amzn.to/3pYHMoN'
+        >
+          American Tourister Ivy 77 Cms Red L
+        </a>
+        <a
+          className='bg-yellow-300 text-xs p-1 w-16 cursor-pointer font-semibold shadow-lg rounded transition-all hover:bg-black hover:text-yellow-300'
+          target='_blank'
+          href='https://amzn.to/3qanRDh'
+        >
+          American Tourister Ivy 77 Cms Black L
+        </a>
+        <a
+          className='bg-yellow-300 text-xs p-1 w-16 cursor-pointer font-semibold shadow-lg rounded transition-all hover:bg-black hover:text-yellow-300'
+          target='_blank'
+          href='https://amzn.to/3YbuUrN'
+        >
+          American Tourister Ivy 55 Cms Sea green S
+        </a>
+      </div>
       <div className='md:w-[90vw] my-0 mx-auto'>
+        <PercentagePacked essentials={essential}></PercentagePacked>
         <FilterBtns
           essentials={essential}
           changeCategory={changeCategory}
@@ -104,7 +129,6 @@ export default function App() {
         >
           Reset to Default
         </button>
-        <PercentagePacked essentials={essential}></PercentagePacked>
         <ChecklistContainer
           essentials={essential}
           notEssential={notEssential}
