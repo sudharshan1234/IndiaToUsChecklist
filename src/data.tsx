@@ -7,7 +7,7 @@ export const essentials = [
     count: 4,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=5c9f7e02ed7634b76ac80dfffc077a40&camp=3638&creative=24630&index=apparel&keywords=Formal Clothing",
-    id: "qWIxDKtitU",
+    id: "aZQPkMX4pF",
   },
   {
     category: "Clothing",
@@ -17,7 +17,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=eab8d5b8a773b83513d9c3a79238544f&camp=3638&creative=24630&index=apparel&keywords=Ties (for Men)",
-    id: "jq7db0L7oK",
+    id: "YBK0LUkTZn",
   },
   {
     category: "Clothing",
@@ -27,7 +27,7 @@ export const essentials = [
     count: 10,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=e9e696fc807bff4014b90d078c603a0a&camp=3638&creative=24630&index=apparel&keywords=Undergarment",
-    id: "i6N2Of0qcD",
+    id: "3zxJQHTdJG",
   },
   {
     category: "Clothing",
@@ -37,7 +37,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=b1cb1f7d16bd95b0080d359b27577738&camp=3638&creative=24630&index=apparel&keywords=Winter Jacket",
-    id: "KVPWE6vf78",
+    id: "mFZ3iiE8hn",
   },
   {
     category: "Clothing",
@@ -47,7 +47,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=969c893c9412556b05d45ffc9ad34249&camp=3638&creative=24630&index=apparel&keywords=Rain Coat",
-    id: "UmLIHrDt6d",
+    id: "UIOWaIRYUZ",
   },
   {
     category: "Clothing",
@@ -57,7 +57,7 @@ export const essentials = [
     count: 3,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=878c24c061fd6a8ed1d7b40c2018300e&camp=3638&creative=24630&index=apparel&keywords=Sweaters",
-    id: "Sa3k5VeHPC",
+    id: "ntBFjcvQ9w",
   },
   {
     category: "Clothing",
@@ -67,7 +67,7 @@ export const essentials = [
     count: 4,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=80c6bebaf19f764d46a033f46798c951&camp=3638&creative=24630&index=apparel&keywords=Nightwear",
-    id: "nVilUzVIsK",
+    id: "apmDt0dou2",
   },
   {
     category: "Clothing",
@@ -77,7 +77,7 @@ export const essentials = [
     count: 4,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6ec2f5dc74d9961bab0d5c47261e81b8&camp=3638&creative=24630&index=apparel&keywords=Jeans",
-    id: "qHthZW4TMq",
+    id: "y1BFpmZoou",
   },
   {
     category: "Clothing",
@@ -87,7 +87,7 @@ export const essentials = [
     count: 9,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=2ebf1d17c7243aa4efcdb31ef73f2fd7&camp=3638&creative=24630&index=apparel&keywords=tshirts",
-    id: "1xJUe1W2Xq",
+    id: "cPNURqdWQX",
   },
   {
     category: "Clothing",
@@ -97,7 +97,7 @@ export const essentials = [
     count: 3,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0987a6d92edbd8b3fe05d5db0a281def&camp=3638&creative=24630&index=apparel&keywords=Gloves",
-    id: "wSy8JfEWCR",
+    id: "fWhDQehnRn",
   },
   {
     category: "Clothing",
@@ -107,7 +107,7 @@ export const essentials = [
     count: 3,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=31ade5d17a64665ba0c8cf706b0a86aa&camp=3638&creative=24630&index=apparel&keywords=Bath Towels",
-    id: "1TvGJwizKQ",
+    id: "8puEnrbFDn",
   },
   {
     category: "Clothing",
@@ -117,7 +117,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=f228ec8cdc339b6e233b4d39cc4c99f4&camp=3638&creative=24630&index=apparel&keywords=Thermal Wear",
-    id: "t9fH4UtLOd",
+    id: "vMNAS9OFST",
   },
   {
     category: "Clothing",
@@ -127,7 +127,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6027bb9daa6ac7825a9f90de0379257c&camp=3638&creative=24630&index=apparel&keywords=Muffler",
-    id: "1zVJtnOwvG",
+    id: "2C4LBkLwoI",
   },
   {
     category: "Clothing",
@@ -137,7 +137,7 @@ export const essentials = [
     count: 4,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=04831f9396d65d53aacbd7e6c78488f3&camp=3638&creative=24630&index=apparel&keywords=Shorts",
-    id: "1RxSvcd5NX",
+    id: "1VgHfWp7Zk",
   },
   {
     category: "Clothing",
@@ -147,7 +147,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=80336cc7b6bcacc196f8fb42dc203aa5&camp=3638&creative=24630&index=apparel&keywords=Swimming Trunks",
-    id: "uJUWBW6SLy",
+    id: "j2EFjaoix0",
   },
   {
     category: "Clothing",
@@ -157,7 +157,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0526901dfa14b38fe5f09fbf138e267a&camp=3638&creative=24630&index=apparel&keywords=Sports Wear",
-    id: "d6f8a1lZ5q",
+    id: "pvuFVK7IPr",
   },
   {
     category: "Clothing",
@@ -167,7 +167,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=553fd17554e0269b1496ae31bd93d9a7&camp=3638&creative=24630&index=apparel&keywords=Belts for Pants",
-    id: "DLz2eUZtVX",
+    id: "nRmaSrcV50",
   },
   {
     category: "Stationary",
@@ -177,7 +177,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=15691562242a37fe79a2e1481dcb6526&camp=3638&creative=24630&index=aps&keywords=Cello Tape",
-    id: "3ifW6vOZDE",
+    id: "BgKs6GTDKE",
   },
   {
     category: "Stationary",
@@ -187,7 +187,7 @@ export const essentials = [
     count: 5,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=b6a14080d1a5417e99dbda2684189647&camp=3638&creative=24630&index=aps&keywords=Pens and Pencils",
-    id: "B9vIJaaHE1",
+    id: "QTF2HT1l3Q",
   },
   {
     category: "Stationary",
@@ -197,7 +197,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6d3d6109e218e00f16ed411c0a9ca34b&camp=3638&creative=24630&index=aps&keywords=Eraser",
-    id: "Vv8af1mRam",
+    id: "nCN3cey7in",
   },
   {
     category: "Stationary",
@@ -207,7 +207,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=7d25bf73a80154433a694389040b5746&camp=3638&creative=24630&index=aps&keywords=File Folder",
-    id: "LnAazxm3gx",
+    id: "qalWoNCjzf",
   },
   {
     category: "Stationary",
@@ -217,7 +217,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0dbe2bc9a494fcd936568999e45f8497&camp=3638&creative=24630&index=aps&keywords=Marker",
-    id: "xZ9yRpr6qM",
+    id: "Z67quQ8vtm",
   },
   {
     category: "Stationary",
@@ -227,7 +227,7 @@ export const essentials = [
     count: 4,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=770ccce626991502d9db32791eb6ab93&camp=3638&creative=24630&index=aps&keywords=Notebooks",
-    id: "UI06r0B7IG",
+    id: "H6CnbWWcfM",
   },
   {
     category: "Stationary",
@@ -237,7 +237,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=efc10d2bcbbc9adba7c4359089ab4120&camp=3638&creative=24630&index=aps&keywords=Rubber Bands",
-    id: "Qj8IIpYLyW",
+    id: "0rUFxkqD3z",
   },
   {
     category: "Stationary",
@@ -247,7 +247,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=53598c3243327edaabea9a565ddf0401&camp=3638&creative=24630&index=aps&keywords=Stapler and Pin",
-    id: "Hxp3ymuUHk",
+    id: "4sMj4sUmMh",
   },
   {
     category: "Stationary",
@@ -257,7 +257,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=79243ada559ca623fb2ab563b8f8a495&camp=3638&creative=24630&index=aps&keywords=Sticky Notes",
-    id: "itRnMj6hFa",
+    id: "TcvPFdUbFq",
   },
   {
     category: "Stationary",
@@ -267,7 +267,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8c569e469570690fd6625d7523b26404&camp=3638&creative=24630&index=aps&keywords=Scissors",
-    id: "vx9JX5IISt",
+    id: "X1ipGRNG5K",
   },
   {
     category: "Stationary",
@@ -277,7 +277,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0acf1838060f12c38b47e72fb98bb97c&camp=3638&creative=24630&index=aps&keywords=Paper Clips",
-    id: "4b0aYqgDGh",
+    id: "uGBYVenTW9",
   },
   {
     category: "Stationary",
@@ -287,7 +287,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=f01fccc6034f6c20be6b9849bd10a2d8&camp=3638&creative=24630&index=aps&keywords=A4 Sheets",
-    id: "r91XUjyczX",
+    id: "DyPbZSaWgt",
   },
   {
     category: "Stationary",
@@ -297,7 +297,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d30d3ab932ec694920d92c42f75fcdda&camp=3638&creative=24630&index=aps&keywords=Highlighter",
-    id: "6iD8ZmEYAT",
+    id: "3HqWwvizIk",
   },
   {
     category: "Stationary",
@@ -307,7 +307,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6460cd1fce0e77e02cbc54ba49aaa514&camp=3638&creative=24630&index=aps&keywords=Glue",
-    id: "faydtE5pXP",
+    id: "UTiUfBAC55",
   },
   {
     category: "Stationary",
@@ -317,7 +317,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=12b47a0e76b924c640a6b7a40cf17566&camp=3638&creative=24630&index=aps&keywords=Pen Holder",
-    id: "sB6zbCbjyC",
+    id: "l4qkQCt5Jx",
   },
   {
     category: "Stationary",
@@ -327,7 +327,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=f7d56cc083061b0703a56eb3e440f9f6&camp=3638&creative=24630&index=aps&keywords=Punching Machine",
-    id: "VHmtW0VHVl",
+    id: "FfUzjDvcCX",
   },
   {
     category: "Stationary",
@@ -337,7 +337,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=b77c37e698034f0cba76a9cab49bbac5&camp=3638&creative=24630&index=aps&keywords=Paper Cutter",
-    id: "nYVS8qCWAK",
+    id: "QpsYrS99yU",
   },
   {
     category: "Stationary",
@@ -347,7 +347,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=ea0b3de84ea739ea454b5341808362b7&camp=3638&creative=24630&index=aps&keywords=Labels",
-    id: "EFEwZT1N3N",
+    id: "mulOhvBWEU",
   },
   {
     category: "Stationary",
@@ -357,7 +357,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=959db2b9c99c7fed70c5c626fc57a316&camp=3638&creative=24630&index=aps&keywords=Scientific Calculator",
-    id: "yAQ0CKBIbi",
+    id: "tBrpgO7xXc",
   },
   {
     category: "Stationary",
@@ -367,7 +367,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=c89be4213ff349f2a2cbd3ae72f1851f&camp=3638&creative=24630&index=aps&keywords=Small Ruler",
-    id: "5svRNf1SDM",
+    id: "hTqIvhFece",
   },
   {
     category: "Stationary",
@@ -377,7 +377,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=083b27af0df36b7592b8424f6ed1df47&camp=3638&creative=24630&index=aps&keywords=Compass Box Pouch",
-    id: "fJ6B7gX4E9",
+    id: "F2OuU8q938",
   },
   {
     category: "Footwear",
@@ -387,7 +387,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=090f4fc70ad5bfe92c757cd330f8fbbc&camp=3638&creative=24630&index=apparel&keywords=Formal Shoes",
-    id: "2wj1yucB4M",
+    id: "8cOvnyDebU",
   },
   {
     category: "Footwear",
@@ -397,7 +397,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=35a51243e8f181264a6e5d5e751fe9a3&camp=3638&creative=24630&index=apparel&keywords=Sports Shoes",
-    id: "MgRT0pKrGL",
+    id: "ZEmKgM6Pbs",
   },
   {
     category: "Footwear",
@@ -407,7 +407,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=bd44553ee279bf61002d557a22814344&camp=3638&creative=24630&index=apparel&keywords=Casual Shoes",
-    id: "OkZBRiOHO4",
+    id: "ZqwPZDRoYR",
   },
   {
     category: "Footwear",
@@ -417,7 +417,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=b080c3b8e6eb0ab3720d8dda573c13bc&camp=3638&creative=24630&index=apparel&keywords=Indoor Slippers",
-    id: "gXzl54dipM",
+    id: "WdBHGMSfkE",
   },
   {
     category: "Footwear",
@@ -427,7 +427,7 @@ export const essentials = [
     count: 8,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=2e003fa635a0e0045e140ac2732fb796&camp=3638&creative=24630&index=apparel&keywords=Socks",
-    id: "9fP74kqNAD",
+    id: "jKOzT83GV2",
   },
   {
     category: "Footwear",
@@ -437,7 +437,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=12921efe5e3bd8a597a791737adca382&camp=3638&creative=24630&index=apparel&keywords=Woollen socks",
-    id: "sXDhqPmNcm",
+    id: "fyRDW1iD3g",
   },
   {
     category: "Electronics",
@@ -447,7 +447,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8b6851742aa7b9c215f5f86a95573fb8&camp=3638&creative=24630&index=eu-ce-in&keywords=Personal Laptop",
-    id: "9IHJndSxlY",
+    id: "qMRQidTBjN",
   },
   {
     category: "Electronics",
@@ -457,7 +457,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=36aa711ce7e879684678bdddda18f8bc&camp=3638&creative=24630&index=eu-ce-in&keywords=Mobile Phone",
-    id: "NRLYJnPr9V",
+    id: "iRuKwIjxRm",
   },
   {
     category: "Electronics",
@@ -467,7 +467,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=9e2601ccf2757fa44d0efcf85e00e211&camp=3638&creative=24630&index=eu-ce-in&keywords=Table Clock with Alarm",
-    id: "93YZxWNuhQ",
+    id: "rRreWnXvPg",
   },
   {
     category: "Electronics",
@@ -477,7 +477,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/rts-Universal-Adapter-International-Worldwide/dp/B082WYMTWF/ref=sr_1_3?crid=2Y92QCBP9HIMM&amp;keywords=Travel+Adaptor&amp;qid=1690392912&amp;sprefix=travel+adaptor%252Caps%252C232&amp;sr=8-3&_encoding=UTF8&tag=1122088-21&linkCode=ur2&linkId=fa405367ac5ef611128c537bb50b7905&camp=3638&creative=24630",
-    id: "gcv6z3Vthn",
+    id: "0N7ZZHGbII",
   },
   {
     category: "Electronics",
@@ -487,7 +487,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=413181591cecc8bc3b89402dca8700c5&camp=3638&creative=24630&index=eu-ce-in&keywords=Spike Buster",
-    id: "cHKmx8wVkT",
+    id: "jhxsdACqxj",
   },
   {
     category: "Electronics",
@@ -497,7 +497,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=07e8e8408fb2bb1d7a92a610d6611572&camp=3638&creative=24630&index=eu-ce-in&keywords=Extra Batteries",
-    id: "ubJ8RVShGJ",
+    id: "gMXGh4JWeZ",
   },
   {
     category: "Electronics",
@@ -507,7 +507,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=7b85fd1b5040661ddb169d77437890dd&camp=3638&creative=24630&index=eu-ce-in&keywords=External Harddisk",
-    id: "ndFXdeilkt",
+    id: "LkKze7Bj7k",
   },
   {
     category: "Electronics",
@@ -517,7 +517,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=f085085d5f7c88543169d8710bf4d175&camp=3638&creative=24630&index=eu-ce-in&keywords=USB Keyboard and Mouse",
-    id: "vm8EkeF6Vb",
+    id: "gEGIsXqHjO",
   },
   {
     category: "Electronics",
@@ -527,7 +527,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=39c7af634b794f0c035f7c57dc8f621d&camp=3638&creative=24630&index=eu-ce-in&keywords=Bluetooth Speakers",
-    id: "yaCVFssjf5",
+    id: "SEjaLT3Qu1",
   },
   {
     category: "Electronics",
@@ -537,7 +537,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8252ddbd23b8254c0ecacc81397a0219&camp=3638&creative=24630&index=eu-ce-in&keywords=Digital Camera",
-    id: "LerbCuNDDP",
+    id: "fhSRYXGzml",
   },
   {
     category: "Electronics",
@@ -547,7 +547,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a81db4eafe92e0a410cca89caf28ec2c&camp=3638&creative=24630&index=eu-ce-in&keywords=Headphones with Mic",
-    id: "Ow8oWMUWgF",
+    id: "zT5UDr8V9Y",
   },
   {
     category: "Electronics",
@@ -557,7 +557,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=65c3f74b209ddf9d9e7c0018088f3a70&camp=3638&creative=24630&index=eu-ce-in&keywords=Powerbank",
-    id: "pKLH31SfPs",
+    id: "OBXwoW2C2o",
   },
   {
     category: "Electronics",
@@ -567,7 +567,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0a1f4d27556b8572756b0a115d17e41a&camp=3638&creative=24630&index=eu-ce-in&keywords=LAN Cable",
-    id: "kBggKlPaqf",
+    id: "NQjdxlDCEe",
   },
   {
     category: "Electronics",
@@ -577,7 +577,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8741548a90105c22102676b6b6ca9691&camp=3638&creative=24630&index=eu-ce-in&keywords=Tripod",
-    id: "o4ThNHMACw",
+    id: "FH3xqMkqwl",
   },
   {
     category: "Electronics",
@@ -587,7 +587,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=cc5d50527a2b7727bbd63ebdc8da63af&camp=3638&creative=24630&index=eu-ce-in&keywords=Steam Iron",
-    id: "x9UA69RcLq",
+    id: "4RsDey6svM",
   },
   {
     category: "Medicine",
@@ -596,7 +596,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "",
-    id: "FEI0f63JEL",
+    id: "WFCGJtye1N",
   },
   {
     category: "Medicine",
@@ -605,7 +605,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "",
-    id: "9y0sWXfSj3",
+    id: "zhpRQBIzVq",
   },
   {
     category: "Medicine",
@@ -614,7 +614,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "",
-    id: "pIPsSJR9xM",
+    id: "uGFtDAqEDK",
   },
   {
     category: "Medicine",
@@ -624,7 +624,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6beea647133fd9fa91edef4b4bb02329&camp=3638&creative=24630&index=aps&keywords=Vicks Vaporub",
-    id: "KdUCmasIat",
+    id: "ZcY38FjZSU",
   },
   {
     category: "Medicine",
@@ -634,7 +634,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=1b6ef0e040f64dff8d632d9b95e3a582&camp=3638&creative=24630&index=aps&keywords=Thermometer",
-    id: "ux65DkxeW8",
+    id: "EWEo5K0obm",
   },
   {
     category: "Medicine",
@@ -644,7 +644,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=82665613a5d6f3a727806239cefbe407&camp=3638&creative=24630&index=aps&keywords=Volini Spray",
-    id: "NTQNvKlPVd",
+    id: "Bw4PRFSb9f",
   },
   {
     category: "Medicine",
@@ -654,7 +654,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=704b3dd9d8791fe7880325d333da9bda&camp=3638&creative=24630&index=aps&keywords=Band Aids",
-    id: "kqNfFE0880",
+    id: "pqfeSTYrhi",
   },
   {
     category: "Medicine",
@@ -664,7 +664,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=ed96611b3322b3505a8295259fce3849&camp=3638&creative=24630&index=aps&keywords=Cotton",
-    id: "uYwxKEkn3W",
+    id: "VvttgIf4FS",
   },
   {
     category: "Medicine",
@@ -674,7 +674,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=25cdfe94d96d5e6db1347410b4bfd340&camp=3638&creative=24630&index=aps&keywords=Salvol or Dentol",
-    id: "1ajqwFkdye",
+    id: "B8Bg2oypWR",
   },
   {
     category: "Medicine",
@@ -683,7 +683,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "",
-    id: "qWE7Yhh7xu",
+    id: "50PStKv2sZ",
   },
   {
     category: "Medicine",
@@ -692,7 +692,7 @@ export const essentials = [
     essential: false,
     count: 1,
     link1: "",
-    id: "Icry6YKYxo",
+    id: "OV8OwyPstS",
   },
   {
     category: "Medicine",
@@ -701,7 +701,7 @@ export const essentials = [
     essential: false,
     count: 1,
     link1: "",
-    id: "hxkk1IiY8H",
+    id: "JxhPHfff3D",
   },
   {
     category: "Medicine",
@@ -710,7 +710,7 @@ export const essentials = [
     essential: false,
     count: 1,
     link1: "",
-    id: "Jmcuv5gY0r",
+    id: "xEfF0heVNV",
   },
   {
     category: "Medicine",
@@ -720,7 +720,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d9fe561197dc38fd68c3449140389f6d&camp=3638&creative=24630&index=aps&keywords=Itch Guard",
-    id: "rRAxpvfXMS",
+    id: "XVPel4tXyC",
   },
   {
     category: "Medicine",
@@ -730,7 +730,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=048a717b260fd1f6ccb688688504dec1&camp=3638&creative=24630&index=aps&keywords=Strepsils",
-    id: "ZGbvTgM8X1",
+    id: "S5HoLpINKh",
   },
   {
     category: "Medicine",
@@ -740,7 +740,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/Burnol-reqd-MFR-Dr-Morepen/dp/B0777M4HZM?crid=1QDKN9KYFTQDO&keywords=Burnol&qid=1690393536&sprefix=burnol%2Caps%2C233&sr=8-1&linkCode=ll1&tag=1122088-21&linkId=b0548d151963e59b896f2f52a8db81d4&language=en_IN&ref_=as_li_ss_tl",
-    id: "soZZ0p0fPR",
+    id: "nZoRW1Y7Fs",
   },
   {
     category: "Medicine",
@@ -750,7 +750,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=1975285184539816d1bcb7509ea74f80&camp=3638&creative=24630&index=aps&keywords=Inhaler",
-    id: "aoMybcpdv6",
+    id: "BsClWrZeUe",
   },
   {
     category: "Medicine",
@@ -759,7 +759,7 @@ export const essentials = [
     essential: false,
     count: 1,
     link1: "link_to_buy_benadryl",
-    id: "lqwTI1CBrl",
+    id: "e3hCneY51W",
   },
   {
     category: "Kitchen",
@@ -769,7 +769,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=56d3e4714a2a03a58710c98fef9443cb&camp=3638&creative=24630&index=kitchen&keywords=Pressure Cooker",
-    id: "9sQaxm9egy",
+    id: "f9jxHVKCkt",
   },
   {
     category: "Kitchen",
@@ -778,7 +778,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "https://amzn.to/3rNCgpy",
-    id: "6DmmQY2fsd",
+    id: "69ErOR8Ped",
   },
   {
     category: "Kitchen",
@@ -787,7 +787,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "https://amzn.to/3DAFJdq",
-    id: "6QzDIRV4qm",
+    id: "1q95BEVhOZ",
   },
   {
     category: "Kitchen",
@@ -796,7 +796,7 @@ export const essentials = [
     essential: true,
     count: 2,
     link1: "https://amzn.to/45116Ar",
-    id: "JCW0Jb9yr8",
+    id: "VxNWOYNnAb",
   },
   {
     category: "Kitchen",
@@ -805,7 +805,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "https://amzn.to/3KckQco",
-    id: "FcNvRLcFl3",
+    id: "BmdMLYK8Ys",
   },
   {
     category: "Kitchen",
@@ -814,7 +814,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "https://amzn.to/473gkqz",
-    id: "IHfG0VGJvt",
+    id: "A1ISicmoQB",
   },
   {
     category: "Kitchen",
@@ -823,7 +823,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "https://amzn.to/3Y7Pp8K",
-    id: "5Tpfapp0Mr",
+    id: "z5Niz1rlQ5",
   },
   {
     category: "Kitchen",
@@ -832,7 +832,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "https://amzn.to/3rIDN06",
-    id: "K6Z25C4ouR",
+    id: "KvHMzHqemN",
   },
   {
     category: "Kitchen",
@@ -842,7 +842,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=3b9d4d0c80ec901c178244e7c3ac0ff9&camp=3638&creative=24630&index=kitchen&keywords=Water Bottles",
-    id: "YJUHtveT6W",
+    id: "jsgytTdql5",
   },
   {
     category: "Kitchen",
@@ -852,7 +852,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=ff29cf1ae62169db45f72dfdc0806042&camp=3638&creative=24630&index=kitchen&keywords=Lunchbox",
-    id: "C8ituO1cGi",
+    id: "THKwdGj4VU",
   },
   {
     category: "Kitchen",
@@ -862,7 +862,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=ba7d3bbc5b91e22ef26aa78fe84a8ebe&camp=3638&creative=24630&index=kitchen&keywords=Can Opener",
-    id: "5viqJFCeGg",
+    id: "01DzbdNmcV",
   },
   {
     category: "Kitchen",
@@ -872,7 +872,7 @@ export const essentials = [
     count: 3,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d5e781eb6cfdaa6e0be4215ac90f1ad5&camp=3638&creative=24630&index=kitchen&keywords=Bowls",
-    id: "cEm8Hv0k6O",
+    id: "clauJKIrQU",
   },
   {
     category: "Kitchen",
@@ -882,7 +882,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a70e515ee3a1a4edcd24445849d6dd9a&camp=3638&creative=24630&index=kitchen&keywords=Extra Weights and Gaskets for Cookers",
-    id: "3YpjQpTXlH",
+    id: "JBssOWKmOe",
   },
   {
     category: "Kitchen",
@@ -892,7 +892,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=fad5e8f6b86bd493223396254e68fafe&camp=3638&creative=24630&index=kitchen&keywords=Roti Pad &amp; Rolling Pin",
-    id: "fsYr6HK59x",
+    id: "nC6NSnKvIJ",
   },
   {
     category: "Kitchen",
@@ -902,7 +902,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=9588daaa02a274c2fda22ee64f35c7f1&camp=3638&creative=24630&index=kitchen&keywords=Butter Knives",
-    id: "XdJ6ltXELx",
+    id: "D8veMbFOQf",
   },
   {
     category: "Kitchen",
@@ -912,7 +912,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=932fd62e4875ca48a865a0f225c05d68&camp=3638&creative=24630&index=kitchen&keywords=Vegetable Chopping Board",
-    id: "TXDws4jyI2",
+    id: "zehGyJZmNg",
   },
   {
     category: "Kitchen",
@@ -922,7 +922,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=4846112d859a63444a9072c55dcd3939&camp=3638&creative=24630&index=kitchen&keywords=Strainers of Various Sizes",
-    id: "8jmrWt1Kp2",
+    id: "Ch6T0etrex",
   },
   {
     category: "Kitchen",
@@ -932,7 +932,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=7187261838f99897c72c8e6e31003944&camp=3638&creative=24630&index=kitchen&keywords=Microwave-safe utensils",
-    id: "8KBaBQpxsP",
+    id: "ftzSgkk8mk",
   },
   {
     category: "Kitchen",
@@ -942,7 +942,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=051d87e8388ff75caff4f192d7ed1645&camp=3638&creative=24630&index=kitchen&keywords=Vegetable Cutter Dicer",
-    id: "wJKzHJR1vd",
+    id: "4jYiATYQ0R",
   },
   {
     category: "Kitchen",
@@ -952,7 +952,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=85b45b08ae1e5ccfab139c50286a6af8&camp=3638&creative=24630&index=kitchen&keywords=Small mixer USA",
-    id: "y2QKm5PW7p",
+    id: "MUS85efpA1",
   },
   {
     category: "PersonalCare",
@@ -962,7 +962,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a259de19d6e5bcb84046ffc193d0f059&camp=3638&creative=24630&index=hpc&keywords=Soap Box",
-    id: "j3M5x9W1HL",
+    id: "5w2nluHTHq",
   },
   {
     category: "PersonalCare",
@@ -972,7 +972,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a128b66dda2230eeb6fa02bb83358d40&camp=3638&creative=24630&index=hpc&keywords=Hand Sanitizer",
-    id: "MUMpzgDgtE",
+    id: "vLYLcExsqe",
   },
   {
     category: "PersonalCare",
@@ -982,7 +982,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6487b8275364c6dcfe60472217b00f0d&camp=3638&creative=24630&index=hpc&keywords=Hand Wash",
-    id: "TQ6tVh8B3m",
+    id: "ZzC5nvwQ8b",
   },
   {
     category: "PersonalCare",
@@ -992,7 +992,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=680ccb762dd5aaf20f4db4efea0334b5&camp=3638&creative=24630&index=hpc&keywords=Hair Oil",
-    id: "dbl85HTzp7",
+    id: "J9kAkTsDbB",
   },
   {
     category: "PersonalCare",
@@ -1002,7 +1002,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=31536a45dccad3cdeb51beb39f7da52c&camp=3638&creative=24630&index=hpc&keywords=Shampoo",
-    id: "hywmn12DJs",
+    id: "slRCNxJYeM",
   },
   {
     category: "PersonalCare",
@@ -1012,7 +1012,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=828ac1243e7857bee0423180435a3e06&camp=3638&creative=24630&index=hpc&keywords=Tooth Paste",
-    id: "bBXcBNnUHA",
+    id: "GlDCWtuKhr",
   },
   {
     category: "PersonalCare",
@@ -1022,7 +1022,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=939f670ae06c69c2b911b2e6f0471434&camp=3638&creative=24630&index=hpc&keywords=Tooth Brush",
-    id: "eBjoLNyUIf",
+    id: "4bR64bMpOv",
   },
   {
     category: "PersonalCare",
@@ -1032,7 +1032,7 @@ export const essentials = [
     count: 2,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6fae7cc5c2a5a8fa98f47159d276f131&camp=3638&creative=24630&index=hpc&keywords=Soap",
-    id: "i9z1DNKvb4",
+    id: "DHPjQBJhOY",
   },
   {
     category: "PersonalCare",
@@ -1041,7 +1041,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "link_to_buy_tissues",
-    id: "rY1TDH68Mb",
+    id: "SxBY87Fix1",
   },
   {
     category: "PersonalCare",
@@ -1051,7 +1051,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d20b6ba694010549f37252449e0cb8cc&camp=3638&creative=24630&index=hpc&keywords=Face Wash",
-    id: "xDEhdVDtsO",
+    id: "0ZJcKCq2iT",
   },
   {
     category: "PersonalCare",
@@ -1061,7 +1061,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=b54187e0189f2e73b546f632c18117ab&camp=3638&creative=24630&index=hpc&keywords=Moisturizer",
-    id: "quMEdGNcCQ",
+    id: "DihsZHkHth",
   },
   {
     category: "PersonalCare",
@@ -1071,7 +1071,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=3626345ad2ed42bf71faeaa034cea445&camp=3638&creative=24630&index=hpc&keywords=Sun Screen",
-    id: "0KHIW8bNUh",
+    id: "OgE14O16lP",
   },
   {
     category: "PersonalCare",
@@ -1081,7 +1081,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=93449aeb7758139df2a6e127ac1f6ce3&camp=3638&creative=24630&index=hpc&keywords=Lip Balm",
-    id: "xcrr7zVKpm",
+    id: "f3DkNmRXeZ",
   },
   {
     category: "PersonalCare",
@@ -1091,7 +1091,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=57fe24a8d78ba1c9230974f5ba6f6c71&camp=3638&creative=24630&index=hpc&keywords=Hair Comb",
-    id: "9jUAqMBt3D",
+    id: "rA6ehzQhPV",
   },
   {
     category: "PersonalCare",
@@ -1101,7 +1101,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=9f3a5e25c6576f79c1aee3929d62b57a&camp=3638&creative=24630&index=hpc&keywords=Rubber Bands",
-    id: "Tgvt0fcEWY",
+    id: "n3dUSNfNaJ",
   },
   {
     category: "PersonalCare",
@@ -1111,7 +1111,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=e3ed2332d58f5a01ee90190969a572c5&camp=3638&creative=24630&index=hpc&keywords=Shaving Razor and Foam",
-    id: "xW6OYMUwUo",
+    id: "4Fbg4U8um4",
   },
   {
     category: "PersonalCare",
@@ -1121,7 +1121,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d88ac517101f074629ccc38d26e94132&camp=3638&creative=24630&index=hpc&keywords=Hair Pins",
-    id: "j494NacxlL",
+    id: "PvcKNSV6lb",
   },
   {
     category: "PersonalCare",
@@ -1131,7 +1131,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=172a6300adb20fd7eabfcaa8fd66cd06&camp=3638&creative=24630&index=hpc&keywords=Hair Clips Bands",
-    id: "bX9LUTZsX0",
+    id: "As28cEYLKR",
   },
   {
     category: "PersonalCare",
@@ -1141,7 +1141,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=482f9934f6194271247692c26c217ebc&camp=3638&creative=24630&index=hpc&keywords=Nail Cutter",
-    id: "Xn5df3KU1Q",
+    id: "7nRK8sCPop",
   },
   {
     category: "PersonalCare",
@@ -1151,7 +1151,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=49c4bb8a045965bce1c9bad72cfd93ee&camp=3638&creative=24630&index=hpc&keywords=Body Lotion",
-    id: "lhWAdp74hw",
+    id: "X4DQq5q2ay",
   },
   {
     category: "PersonalCare",
@@ -1161,7 +1161,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=b902ca23ad05252c968c8cdac2680613&camp=3638&creative=24630&index=hpc&keywords=Deodorant",
-    id: "g0ynU8gXqV",
+    id: "78h75ja3GI",
   },
   {
     category: "PersonalCare",
@@ -1171,7 +1171,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=040830b2610955a448a66336f57a310d&camp=3638&creative=24630&index=hpc&keywords=Wet Tissues",
-    id: "iNiU7pYIOS",
+    id: "V1kddVTF8o",
   },
   {
     category: "PersonalCare",
@@ -1181,7 +1181,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=2a4ced8084541b4de31b28dd04a83ea1&camp=3638&creative=24630&index=hpc&keywords=Conditioner",
-    id: "cYxEceMw2i",
+    id: "p6fzGKpGFD",
   },
   {
     category: "PersonalCare",
@@ -1191,7 +1191,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=897668a686a70215c67b3a09bb011686&camp=3638&creative=24630&index=hpc&keywords=Ear swabs",
-    id: "VC2Z1LwxWT",
+    id: "iBdf2W7VAx",
   },
   {
     category: "PersonalCare",
@@ -1201,7 +1201,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d7f5f982a65f47c35d6dd5188fc1c7f0&camp=3638&creative=24630&index=hpc&keywords=Nail Polish and Remover",
-    id: "r1DjUtJM6c",
+    id: "INKDhW1O8v",
   },
   {
     category: "PersonalCare",
@@ -1211,7 +1211,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=2d3aa20abf81186c1995396b45f29bab&camp=3638&creative=24630&index=hpc&keywords=Jewelry",
-    id: "65kJeDFKkr",
+    id: "YzcgbjnzWF",
   },
   {
     category: "FoodItems",
@@ -1221,7 +1221,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=975acebdffc6e3242a5b930c21d99437&camp=3638&creative=24630&index=kitchen&keywords=Salt",
-    id: "YuO9hkn3JJ",
+    id: "OFVfxyTGRX",
   },
   {
     category: "FoodItems",
@@ -1231,7 +1231,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=b9b5a783f74e3ce7b8de110be12f3d15&camp=3638&creative=24630&index=kitchen&keywords=Red Chilli",
-    id: "a8L33kg3JM",
+    id: "73BSjy9zex",
   },
   {
     category: "FoodItems",
@@ -1241,7 +1241,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=972d187eb90effcc597073b075ea0059&camp=3638&creative=24630&index=kitchen&keywords=Turmeric Powder",
-    id: "CiTKIoBohL",
+    id: "ovsx4mTQvs",
   },
   {
     category: "FoodItems",
@@ -1251,7 +1251,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=4e9957ca6954d9a7f92b5c0be5220cc6&camp=3638&creative=24630&index=kitchen&keywords=Garam Masala",
-    id: "230clhhp9c",
+    id: "y972xXIHBw",
   },
   {
     category: "FoodItems",
@@ -1261,7 +1261,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=f995a7d4648bd992ad6a2c2d4cbaf3e3&camp=3638&creative=24630&index=kitchen&keywords=Dhaniya Powder",
-    id: "w4potnJEIk",
+    id: "lRUVKBJj91",
   },
   {
     category: "FoodItems",
@@ -1271,7 +1271,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=541b4d70529b16df5effad375919fa01&camp=3638&creative=24630&index=kitchen&keywords=Zeera (Cumin Seeds)",
-    id: "D0qV6lrmBv",
+    id: "JjcRZFNKZK",
   },
   {
     category: "FoodItems",
@@ -1281,7 +1281,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=c673af6ea8d4ef54a90b7bab4839a3be&camp=3638&creative=24630&index=kitchen&keywords=Black Pepper",
-    id: "HPccCOWGOl",
+    id: "QAAYGJLajK",
   },
   {
     category: "FoodItems",
@@ -1291,7 +1291,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d6214fc8a6a1d6629151758894ac8e04&camp=3638&creative=24630&index=kitchen&keywords=Mustard Seeds",
-    id: "rmrrML3xiP",
+    id: "31kh5Q2adK",
   },
   {
     category: "FoodItems",
@@ -1301,7 +1301,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=1cb312a305a86f7ea56165e498f4d04f&camp=3638&creative=24630&index=kitchen&keywords=Garlic Paste",
-    id: "ZF0UDpnexV",
+    id: "pcKkQdfO4r",
   },
   {
     category: "FoodItems",
@@ -1311,7 +1311,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8376570416da8af81158ac251f307414&camp=3638&creative=24630&index=kitchen&keywords=Besan",
-    id: "9RL1bjkGeJ",
+    id: "bihx8rqVBH",
   },
   {
     category: "FoodItems",
@@ -1321,7 +1321,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=5d63964dd8a63b484c7db2a0e20ca9b8&camp=3638&creative=24630&index=kitchen&keywords=Ginger Paste",
-    id: "sKjYEHdDso",
+    id: "9B8cuAnzxl",
   },
   {
     category: "FoodItems",
@@ -1331,7 +1331,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=219cfc4d0062fb1e06a094dad04396c6&camp=3638&creative=24630&index=kitchen&keywords=Maida",
-    id: "5ez7DeuiY5",
+    id: "uEQEFnZrXx",
   },
   {
     category: "FoodItems",
@@ -1341,7 +1341,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=fcef40a4ab5ba2875ae88d9020f9c4c5&camp=3638&creative=24630&index=kitchen&keywords=Rava",
-    id: "QEks2UovKB",
+    id: "n3RKwsZ1X7",
   },
   {
     category: "FoodItems",
@@ -1351,7 +1351,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=711e97870cbe2b50f6005d4f4b1b2e04&camp=3638&creative=24630&index=kitchen&keywords=Coffee Tea Powder",
-    id: "TuVJqkeI8Y",
+    id: "oTwFni4OVc",
   },
   {
     category: "FoodItems",
@@ -1360,7 +1360,7 @@ export const essentials = [
     essential: true,
     count: 1,
     link1: "",
-    id: "WCL4O7uM9p",
+    id: "6clA5JAkEj",
   },
   {
     category: "FoodItems",
@@ -1370,7 +1370,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0d4ac47ecad259bfaea08f46fe948dbd&camp=3638&creative=24630&index=kitchen&keywords=Snacks",
-    id: "ArmLWKHe0k",
+    id: "xVJAPDkSVw",
   },
   {
     category: "FoodItems",
@@ -1380,7 +1380,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=905636e73fd3b1cacdfdb4376a6b8a7e&camp=3638&creative=24630&index=kitchen&keywords=Tamarind",
-    id: "GhpGe0sWBO",
+    id: "CNEvXJcWd3",
   },
   {
     category: "FoodItems",
@@ -1390,7 +1390,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=543327c2047b477dbbf23b041e068910&camp=3638&creative=24630&index=kitchen&keywords=Chaat Masala",
-    id: "eeUIwpV7Vi",
+    id: "i5mgowhGPt",
   },
   {
     category: "FoodItems",
@@ -1400,7 +1400,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a9374fdb943e5fe22f0af2c1a80b9263&camp=3638&creative=24630&index=kitchen&keywords=Cinnamon",
-    id: "An9HfJgJdK",
+    id: "txp05efKZd",
   },
   {
     category: "FoodItems",
@@ -1410,7 +1410,7 @@ export const essentials = [
     count: 1,
     link1:
       "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=1e928183ad3320e360e9fbf13a19300e&camp=3638&creative=24630&index=kitchen&keywords=Jaggery",
-    id: "QxPj8pXPpB",
+    id: "eBEBw1vGXX",
   },
   {
     category: "FoodItems",
@@ -1419,7 +1419,7 @@ export const essentials = [
     essential: false,
     count: 1,
     link1: "https://amzn.to/4527asx",
-    id: "xGix24sLm4",
+    id: "duDBFKR7E3",
   },
   {
     category: "FoodItems",
@@ -1428,7 +1428,7 @@ export const essentials = [
     essential: false,
     count: 1,
     link1: "https://amzn.to/3YdAcmW",
-    id: "72CjvwOWIz",
+    id: "21vQTDFNY3",
   },
   {
     category: "FoodItems",
@@ -1437,7 +1437,7 @@ export const essentials = [
     essential: false,
     count: 1,
     link1: "https://amzn.to/451F4gT",
-    id: "Yh4TJICYdp",
+    id: "wplcnvRMDK",
   },
   {
     category: "FoodItems",
@@ -1446,7 +1446,7 @@ export const essentials = [
     essential: false,
     count: 3,
     link1: "https://amzn.to/452FHa1",
-    id: "zD6FvJcOV4",
+    id: "dXe2EbahLN",
   },
   {
     category: "FoodItems",
@@ -1455,6 +1455,168 @@ export const essentials = [
     essential: false,
     count: 1,
     link1: "https://amzn.to/3O97A9C",
-    id: "E6LkEdEuCw",
+    id: "md4oU5LMa0",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Umbrella",
+    packed: false,
+    essential: true,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=24946934f7c1c8cf0a2897f01123bc48&camp=3638&creative=24630&index=apparel&keywords=Umbrella",
+    id: "euj9ScMFYY",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Handkerchiefs",
+    packed: false,
+    essential: true,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=33dbc3e423e248e168714dca01e03b23&camp=3638&creative=24630&index=apparel&keywords=Handkerchiefs",
+    id: "GYrsPUomb6",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Bedsheets",
+    packed: false,
+    essential: true,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8ff280d2b23ea53c321a87b88648778e&camp=3638&creative=24630&index=aps&keywords=Bedsheets",
+    id: "wTWK6yj1Z9",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Blankets",
+    packed: false,
+    essential: true,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=35375e6ad16b1bde6c518792f98e512c&camp=3638&creative=24630&index=aps&keywords=Blankets",
+    id: "XYQ0jbrV3s",
+  },
+  {
+    category: "Miscellaneous",
+    count: 2,
+    name: "Pillow Covers",
+    packed: false,
+    essential: true,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=77e5110ac662c1703797084920618a75&camp=3638&creative=24630&index=aps&keywords=Pillow Covers",
+    id: "2bQx0HrKvA",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Wallet/Purse",
+    packed: false,
+    essential: true,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=86dcae9debea10c1aea2edac7af05eae&camp=3638&creative=24630&index=aps&keywords=Wallet Purse",
+    id: "41uO8sur9h",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Spectacles (take an extra pair)",
+    packed: false,
+    essential: true,
+    link: "",
+    id: "ixVwl5dp7A",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Backpack",
+    packed: false,
+    essential: true,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=361e7055880817659441ac2433e728fd&camp=3638&creative=24630&index=apparel&keywords=Backpac",
+    id: "kbwl8tQ3lt",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Safety Pins",
+    packed: false,
+    essential: true,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=2903bec4c6fd606bb411a8bfef13edd9&camp=3638&creative=24630&index=aps&keywords=Safety Pins",
+    id: "fnNVnx3Pmy",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Zip Locks",
+    packed: false,
+    essential: true,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d7f4f6da07476fd52285d959128f3d6a&camp=3638&creative=24630&index=aps&keywords=Zip Locks",
+    id: "JHyxl0CgT3",
+  },
+  {
+    category: "Miscellaneous",
+    count: 5,
+    name: "Hangers",
+    packed: false,
+    essential: true,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a43e08ef6fa7763e9db9180de3123c23&camp=3638&creative=24630&index=aps&keywords=Hangers",
+    id: "0EVp4equ9A",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Sunglasses",
+    packed: false,
+    essential: false,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6787a11c0ba7b42281a12b07f0309d9a&camp=3638&creative=24630&index=apparel&keywords=Sunglasses",
+    id: "u1FMmstBFm",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Shoe Polish and Accessories",
+    packed: false,
+    essential: false,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=ea957335197ec15b56072fa487d7bc6f&camp=3638&creative=24630&index=apparel&keywords=Shoe Polish and Accessories",
+    id: "UmJnNxx4Dx",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Watch",
+    packed: false,
+    essential: false,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0f7bdaba673ae06d1c60f756b8eda1a8&camp=3638&creative=24630&index=apparel&keywords=Watch",
+    id: "32qHKr7LJq",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Caps",
+    packed: false,
+    essential: false,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a4b14e562e2ded150c2f091ffb88452a&camp=3638&creative=24630&index=apparel&keywords=Caps",
+    id: "f2AsR6VZuG",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Handbag",
+    packed: false,
+    essential: false,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=194aebb3292c669045a370e02ada4f16&camp=3638&creative=24630&index=apparel&keywords=Handbag",
+    id: "i5dGtFqhbz",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Sewing Kit",
+    packed: false,
+    essential: false,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=4906eb3f59a087c36df8df883c84ae37&camp=3638&creative=24630&index=aps&keywords=Sewing Kit",
+    id: "Ps0a5VvEZI",
+  },
+  {
+    category: "Miscellaneous",
+    count: 1,
+    name: "Keychains",
+    packed: false,
+    essential: false,
+    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=cfbbfd33410525f15d637e0ea026b7f4&camp=3638&creative=24630&index=aps&keywords=Keychains",
+    id: "398lQE8qMd",
   },
 ];

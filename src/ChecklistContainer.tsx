@@ -89,13 +89,17 @@ const ChecklistContainer: FC<Props> = ({
                   </button>
                 </td>
                 <td className='p-2 border-2 border-yellow-500 border-solid'>
-                  <a
-                    className='bg-yellow-300 text-xs p-1 w-16 font-semibold shadow-lg rounded transition-all hover:bg-black hover:text-yellow-300'
-                    target='_blank'
-                    href={item.link1}
-                  >
-                    Shop Now
-                  </a>
+                  {item.link1 !== "" ? (
+                    <a
+                      className='bg-yellow-300 text-xs p-1 w-16 cursor-pointer font-semibold shadow-lg rounded transition-all hover:bg-black hover:text-yellow-300'
+                      target='_blank'
+                      href={item.link1}
+                    >
+                      Shop Now
+                    </a>
+                  ) : (
+                    ""
+                  )}
                 </td>
               </tr>
             );
