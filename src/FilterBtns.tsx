@@ -9,7 +9,6 @@ const FilterBtns: FC<Props> = ({
     "All",
     ...new Set(essentials.map((item) => item.category)),
   ];
-  console.log(categories);
 
   return (
     <div className='my-5 mx-auto'>
