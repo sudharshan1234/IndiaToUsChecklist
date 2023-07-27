@@ -758,7 +758,7 @@ export const essentials = [
     packed: false,
     essential: false,
     count: 1,
-    link1: "link_to_buy_benadryl",
+    link1: "",
     id: "e3hCneY51W",
   },
   {
@@ -1040,7 +1040,8 @@ export const essentials = [
     packed: false,
     essential: true,
     count: 1,
-    link1: "link_to_buy_tissues",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=99ca70accd7a161296c2a992fbec5164&camp=3638&creative=24630&index=hpc&keywords=Tissue",
     id: "SxBY87Fix1",
   },
   {
