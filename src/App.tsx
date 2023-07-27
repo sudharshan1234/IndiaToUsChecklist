@@ -11,8 +11,8 @@ export default function App() {
     name: string;
     packed: boolean;
     essential: boolean;
-    not_needed: boolean;
-    link: string;
+    count: number;
+    link1: string;
   }[] = () => {
     const item = localStorage.getItem("essential");
     if (item) {
@@ -46,14 +46,34 @@ export default function App() {
     });
     setEssential(tmpArr);
   };
-  const notNeeded = (id: string, not_needed: boolean) => {
+  const notEssential = (id: string, essentialBool: boolean) => {
     const tmpArr = essential.map((item) => {
       if (item.id === id) {
-        item.not_needed = not_needed;
+        item.essential = essentialBool;
       }
       return item;
     });
     setEssential(tmpArr);
+  };
+
+  const changeAmount = (id: string, amount: number) => {
+    if (amount < 1) {
+      return;
+    }
+    const tmpArr = essential.map((item) => {
+      if (item.id === id) {
+        item.count = amount;
+      }
+      return item;
+    });
+    setEssential(tmpArr);
+  };
+
+  const resetToDefault = () => {
+    if (confirm("Are you sure you want to reset everything to default?")) {
+      localStorage.clear();
+      location.reload();
+    }
   };
 
   return (
@@ -61,18 +81,36 @@ export default function App() {
       <h1 className='text-2xl font-bold underline text-center md:text-2xl'>
         THE ULTIMATE PACKING CHECKLIST
       </h1>
+      <p className='w-[90vw] text-center my-2 mx-auto text-xl bg-yellow-300 rounded-md p-3'>
+        I am sure you are excited and looking forward to your journey abroad
+        this fall. Worried you missed something essential while packing? I’ve
+        got you covered! This list is very exhaustive, so don’t feel like you
+        need to take everything. Use it as a reference to ensure you don’t miss
+        something important.{" "}
+        <span className='bg-black text-yellow-400 p-1'>
+          Your personal checklist will be stored locally in your browser, so you
+          don't have to worry. Feel free to share it with your friends!
+        </span>
+      </p>
       <div className='md:w-[90vw] my-0 mx-auto'>
         <FilterBtns
           essentials={essential}
           changeCategory={changeCategory}
           chosenCategory={chosenCategory}
         ></FilterBtns>
+        <button
+          className='text-xl p-2 bg-yellow-300 font-semibold shadow-lg rounded transition-all hover:bg-black hover:text-yellow-300 '
+          onClick={resetToDefault}
+        >
+          Reset to Default
+        </button>
         <PercentagePacked essentials={essential}></PercentagePacked>
         <ChecklistContainer
           essentials={essential}
-          notNeeded={notNeeded}
+          notEssential={notEssential}
           packEssential={packEssential}
           chosenCategory={chosenCategory}
+          changeAmount={changeAmount}
         ></ChecklistContainer>
       </div>
     </section>

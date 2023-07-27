@@ -16,11 +16,11 @@ const PercentagePacked: FC<Props> = ({ essentials }) => {
   }
   return (
     <div className='flex justify-center items-center m-3'>
-      <h3 className='text-4xl'>Percentage of essentials packed: </h3>
+      <h3 className='text-4xl'>Number of essentials packed: </h3>
       <div
-        className={`h-28 w-28 p-2 rounded-full flex justify-center bg-re items-center text-white text-3xl ${color}`}
+        className={`h-28 w-28 p-2 rounded-full shadow-lg flex justify-center bg-re items-center text-white text-3xl ${color}`}
       >
-        {((packedEssential * 100) / totalLen).toFixed(2)}%
+        {packedEssential}/{totalLen}
       </div>
     </div>
   );
@@ -34,7 +34,7 @@ interface Props {
     name: string;
     packed: boolean;
     essential: boolean;
-    not_needed: boolean;
-    link: string;
+    count: number;
+    link1: string;
   }[];
 }

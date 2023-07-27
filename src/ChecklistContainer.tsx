@@ -1,10 +1,11 @@
 import { FC } from "react";
-import { FaCheck } from "react-icons/fa";
+import { FaPlus, FaMinus } from "react-icons/fa";
 const ChecklistContainer: FC<Props> = ({
   essentials,
-  notNeeded,
+  notEssential,
   packEssential,
   chosenCategory,
+  changeAmount,
 }) => {
   let chosenEssentials = essentials;
   if (chosenCategory !== "All") {
@@ -13,7 +14,7 @@ const ChecklistContainer: FC<Props> = ({
     );
   }
   return (
-    <div className=' w-full h-5/6 grid place-items-center'>
+    <div className=' w-full h-5/6 grid place-items-center overflow-x-scroll'>
       <table className='border-2 border-yellow-500 border-solid text-center'>
         <thead>
           <tr>
@@ -27,10 +28,10 @@ const ChecklistContainer: FC<Props> = ({
               Essential
             </th>
             <th className='p-2 border-2 border-yellow-500 border-solid bg-yellow-400 text-black'>
-              Not Needed for You?
+              Count
             </th>
             <th className='p-2 border-2 border-yellow-500 border-solid bg-yellow-400 text-black'>
-              Amazon Link
+              Shopping link
             </th>
           </tr>
         </thead>
@@ -53,9 +54,7 @@ const ChecklistContainer: FC<Props> = ({
                 <td className='p-2 border-2 border-yellow-500 border-solid'>
                   {item.name}
                 </td>
-                <td className='p-2 border-2 border-yellow-500 border-solid'>
-                  {item.essential ? <FaCheck></FaCheck> : ""}
-                </td>
+
                 <td className='p-2 border-2 border-yellow-500 border-solid'>
                   <input
                     type='checkbox'
@@ -63,15 +62,40 @@ const ChecklistContainer: FC<Props> = ({
                     id=''
                     className='w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600'
                     onChange={() => {
-                      notNeeded(item.id, !item.not_needed);
+                      notEssential(item.id, !item.essential);
                     }}
-                    checked={item.not_needed}
+                    checked={item.essential}
                   />
                 </td>
-                <td className='p-2 border-2 border-yellow-500 border-solid'>
-                  <button className='bg-yellow-300 text-xs p-1 w-16 font-semibold shadow-lg rounded transition-all hover:bg-black hover:text-yellow-300'>
-                    Shop Now
+                <td className='p-2 border-2 border-yellow-500 border-solid grid grid-cols-1 md:grid-cols-3 place-items-center gap-1'>
+                  <button
+                    className='bg-yellow-300 p-2'
+                    onClick={() => {
+                      changeAmount(item.id, item.count - 1);
+                    }}
+                  >
+                    <FaMinus></FaMinus>
                   </button>
+                  <p className='w-10 border-2 border-yellow-300 px-2 text-xl inline-block'>
+                    {item.count}
+                  </p>
+                  <button
+                    className='bg-yellow-300 p-2'
+                    onClick={() => {
+                      changeAmount(item.id, Number(item.count) + 1);
+                    }}
+                  >
+                    <FaPlus></FaPlus>
+                  </button>
+                </td>
+                <td className='p-2 border-2 border-yellow-500 border-solid'>
+                  <a
+                    className='bg-yellow-300 text-xs p-1 w-16 font-semibold shadow-lg rounded transition-all hover:bg-black hover:text-yellow-300'
+                    target='_blank'
+                    href={item.link1}
+                  >
+                    Shop Now
+                  </a>
                 </td>
               </tr>
             );
@@ -90,10 +114,11 @@ interface Props {
     name: string;
     packed: boolean;
     essential: boolean;
-    not_needed: boolean;
-    link: string;
+    count: number;
+    link1: string;
   }[];
   packEssential: (id: string, packed: boolean) => void;
-  notNeeded: (id: string, packed: boolean) => void;
+  notEssential: (id: string, packed: boolean) => void;
   chosenCategory: string;
+  changeAmount: (id: string, amount: number) => void;
 }

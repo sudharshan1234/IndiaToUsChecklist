@@ -44,8 +44,8 @@ interface Props {
     name: string;
     packed: boolean;
     essential: boolean;
-    not_needed: boolean;
-    link: string;
+    count: number;
+    link1: string;
   }[];
   changeCategory: (category: string) => void;
   chosenCategory: string;
