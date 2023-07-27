@@ -1463,7 +1463,8 @@ export const essentials = [
     name: "Umbrella",
     packed: false,
     essential: true,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=24946934f7c1c8cf0a2897f01123bc48&camp=3638&creative=24630&index=apparel&keywords=Umbrella",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=24946934f7c1c8cf0a2897f01123bc48&camp=3638&creative=24630&index=apparel&keywords=Umbrella",
     id: "euj9ScMFYY",
   },
   {
@@ -1472,7 +1473,8 @@ export const essentials = [
     name: "Handkerchiefs",
     packed: false,
     essential: true,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=33dbc3e423e248e168714dca01e03b23&camp=3638&creative=24630&index=apparel&keywords=Handkerchiefs",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=33dbc3e423e248e168714dca01e03b23&camp=3638&creative=24630&index=apparel&keywords=Handkerchiefs",
     id: "GYrsPUomb6",
   },
   {
@@ -1481,7 +1483,8 @@ export const essentials = [
     name: "Bedsheets",
     packed: false,
     essential: true,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8ff280d2b23ea53c321a87b88648778e&camp=3638&creative=24630&index=aps&keywords=Bedsheets",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=8ff280d2b23ea53c321a87b88648778e&camp=3638&creative=24630&index=aps&keywords=Bedsheets",
     id: "wTWK6yj1Z9",
   },
   {
@@ -1490,7 +1493,8 @@ export const essentials = [
     name: "Blankets",
     packed: false,
     essential: true,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=35375e6ad16b1bde6c518792f98e512c&camp=3638&creative=24630&index=aps&keywords=Blankets",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=35375e6ad16b1bde6c518792f98e512c&camp=3638&creative=24630&index=aps&keywords=Blankets",
     id: "XYQ0jbrV3s",
   },
   {
@@ -1499,7 +1503,8 @@ export const essentials = [
     name: "Pillow Covers",
     packed: false,
     essential: true,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=77e5110ac662c1703797084920618a75&camp=3638&creative=24630&index=aps&keywords=Pillow Covers",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=77e5110ac662c1703797084920618a75&camp=3638&creative=24630&index=aps&keywords=Pillow Covers",
     id: "2bQx0HrKvA",
   },
   {
@@ -1508,7 +1513,8 @@ export const essentials = [
     name: "Wallet/Purse",
     packed: false,
     essential: true,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=86dcae9debea10c1aea2edac7af05eae&camp=3638&creative=24630&index=aps&keywords=Wallet Purse",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=86dcae9debea10c1aea2edac7af05eae&camp=3638&creative=24630&index=aps&keywords=Wallet Purse",
     id: "41uO8sur9h",
   },
   {
@@ -1517,7 +1523,7 @@ export const essentials = [
     name: "Spectacles (take an extra pair)",
     packed: false,
     essential: true,
-    link: "",
+    link1: "",
     id: "ixVwl5dp7A",
   },
   {
@@ -1526,7 +1532,8 @@ export const essentials = [
     name: "Backpack",
     packed: false,
     essential: true,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=361e7055880817659441ac2433e728fd&camp=3638&creative=24630&index=apparel&keywords=Backpac",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=361e7055880817659441ac2433e728fd&camp=3638&creative=24630&index=apparel&keywords=Backpac",
     id: "kbwl8tQ3lt",
   },
   {
@@ -1535,7 +1542,8 @@ export const essentials = [
     name: "Safety Pins",
     packed: false,
     essential: true,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=2903bec4c6fd606bb411a8bfef13edd9&camp=3638&creative=24630&index=aps&keywords=Safety Pins",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=2903bec4c6fd606bb411a8bfef13edd9&camp=3638&creative=24630&index=aps&keywords=Safety Pins",
     id: "fnNVnx3Pmy",
   },
   {
@@ -1544,7 +1552,8 @@ export const essentials = [
     name: "Zip Locks",
     packed: false,
     essential: true,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d7f4f6da07476fd52285d959128f3d6a&camp=3638&creative=24630&index=aps&keywords=Zip Locks",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=d7f4f6da07476fd52285d959128f3d6a&camp=3638&creative=24630&index=aps&keywords=Zip Locks",
     id: "JHyxl0CgT3",
   },
   {
@@ -1553,7 +1562,8 @@ export const essentials = [
     name: "Hangers",
     packed: false,
     essential: true,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a43e08ef6fa7763e9db9180de3123c23&camp=3638&creative=24630&index=aps&keywords=Hangers",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a43e08ef6fa7763e9db9180de3123c23&camp=3638&creative=24630&index=aps&keywords=Hangers",
     id: "0EVp4equ9A",
   },
   {
@@ -1562,7 +1572,8 @@ export const essentials = [
     name: "Sunglasses",
     packed: false,
     essential: false,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6787a11c0ba7b42281a12b07f0309d9a&camp=3638&creative=24630&index=apparel&keywords=Sunglasses",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=6787a11c0ba7b42281a12b07f0309d9a&camp=3638&creative=24630&index=apparel&keywords=Sunglasses",
     id: "u1FMmstBFm",
   },
   {
@@ -1571,7 +1582,8 @@ export const essentials = [
     name: "Shoe Polish and Accessories",
     packed: false,
     essential: false,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=ea957335197ec15b56072fa487d7bc6f&camp=3638&creative=24630&index=apparel&keywords=Shoe Polish and Accessories",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=ea957335197ec15b56072fa487d7bc6f&camp=3638&creative=24630&index=apparel&keywords=Shoe Polish and Accessories",
     id: "UmJnNxx4Dx",
   },
   {
@@ -1580,7 +1592,8 @@ export const essentials = [
     name: "Watch",
     packed: false,
     essential: false,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0f7bdaba673ae06d1c60f756b8eda1a8&camp=3638&creative=24630&index=apparel&keywords=Watch",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=0f7bdaba673ae06d1c60f756b8eda1a8&camp=3638&creative=24630&index=apparel&keywords=Watch",
     id: "32qHKr7LJq",
   },
   {
@@ -1589,7 +1602,8 @@ export const essentials = [
     name: "Caps",
     packed: false,
     essential: false,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a4b14e562e2ded150c2f091ffb88452a&camp=3638&creative=24630&index=apparel&keywords=Caps",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=a4b14e562e2ded150c2f091ffb88452a&camp=3638&creative=24630&index=apparel&keywords=Caps",
     id: "f2AsR6VZuG",
   },
   {
@@ -1598,7 +1612,8 @@ export const essentials = [
     name: "Handbag",
     packed: false,
     essential: false,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=194aebb3292c669045a370e02ada4f16&camp=3638&creative=24630&index=apparel&keywords=Handbag",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=194aebb3292c669045a370e02ada4f16&camp=3638&creative=24630&index=apparel&keywords=Handbag",
     id: "i5dGtFqhbz",
   },
   {
@@ -1607,7 +1622,8 @@ export const essentials = [
     name: "Sewing Kit",
     packed: false,
     essential: false,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=4906eb3f59a087c36df8df883c84ae37&camp=3638&creative=24630&index=aps&keywords=Sewing Kit",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=4906eb3f59a087c36df8df883c84ae37&camp=3638&creative=24630&index=aps&keywords=Sewing Kit",
     id: "Ps0a5VvEZI",
   },
   {
@@ -1616,7 +1632,8 @@ export const essentials = [
     name: "Keychains",
     packed: false,
     essential: false,
-    link: "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=cfbbfd33410525f15d637e0ea026b7f4&camp=3638&creative=24630&index=aps&keywords=Keychains",
+    link1:
+      "https://www.amazon.in/gp/search?ie=UTF8&tag=1122088-21&linkCode=ur2&linkId=cfbbfd33410525f15d637e0ea026b7f4&camp=3638&creative=24630&index=aps&keywords=Keychains",
     id: "398lQE8qMd",
   },
 ];
