@@ -27,8 +27,7 @@ export default function App() {
       }[] = JSON.parse(item);
       if (tempItems[0].link1 !== essentials[0].link1) {
         tempItems = tempItems.map((it, index) => {
-          it.link1 = essentials[index].link1;
-          return it;
+          return { ...it, link1: essentials[index].link1 };
         });
         localStorage.setItem("essential", JSON.stringify(tempItems));
       }
