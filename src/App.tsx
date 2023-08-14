@@ -16,7 +16,23 @@ export default function App() {
   }[] = () => {
     const item = localStorage.getItem("essential");
     if (item) {
-      return JSON.parse(item);
+      let tempItems: {
+        category: string;
+        name: string;
+        packed: boolean;
+        essential: boolean;
+        count: number;
+        link1: string;
+        id: string;
+      }[] = JSON.parse(item);
+      if (tempItems[0].link1 !== essentials[0].link1) {
+        tempItems = tempItems.map((it, index) => {
+          it.link1 = essentials[index].link1;
+          return it;
+        });
+        localStorage.setItem("essential", JSON.stringify(tempItems));
+      }
+      return tempItems;
     } else {
       localStorage.setItem("essential", JSON.stringify(essentials));
       return essentials;
